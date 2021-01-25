@@ -23,8 +23,8 @@ Hi, I'm [nomekop007!](#), a passionate self-taught Full Stack Web Developer 🚀
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@nomekop007](#);
-- 📝[Resume](#)
+- 📫 How to reach me: [d.riosrojas007@gmail.com](#);
+
 
 **Languages and Tools:**  
 
