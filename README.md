@@ -14,7 +14,7 @@
 </a>
 <br />
 
-Hi, I'm [nomekop007!](#), a passionate self-taught Full Stack Web Developer 🚀 from India.
+Hi, I'm [nomekop007!](#), a passionate self-taught Full Stack Web Developer 🚀 from chile.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
