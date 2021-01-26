@@ -14,7 +14,7 @@
 </a>
 <br />
 
-Hi, I'm [nomekop007!](#), a passionate self-taught Full Stack Web Developer 🚀 from chile.
+Hi, I'm [Diego Rios!](#), a passionate self-taught Full Stack Web Developer 🚀 from chile.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -41,6 +41,8 @@ Hi, I'm [nomekop007!](#), a passionate self-taught Full Stack Web Developer 🚀
 JavaScript   6 hrs 58 mins   ██████████████░░░░░░░░░░░   55.84 % 
 PHP          21 mins         ▓█████░░░░░░░░░░░░░░░░░░░   02.87 % 
 JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+TypeScript   1 hrs           ███████████░░░░░░░░░░░░░░   46.02 % 
+
 
 ```
 <!--END_SECTION:waka-->
