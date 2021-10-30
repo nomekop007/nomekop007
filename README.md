@@ -4,7 +4,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nomekop007/">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnomewXLBnJfzf-BXhQINnIursiKvGjxe4QPlHK9j4t5t62XIvFdGvLkvIwfKA41e6JP8&usqp=CAU" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://toppng.com/uploads/preview/instagram-logo-clipart-transparent-png-images-logos-de-redes-sociales-11563010161vlgttwnktf.png" />
   <!-- https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg -->
 </a>
 <a href="#">
