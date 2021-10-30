@@ -4,7 +4,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nomekop007/">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png" />
+  <img align="left" alt="Abhishek's Spotify" width="42px" src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png" />
   <!-- https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg -->
 </a>
 <a href="#">
