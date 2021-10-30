@@ -4,7 +4,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nomekop007/">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://www.aventuracadiz.es/wp-content/uploads/2020/07/Instagram-simbolo.png" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://149440826.v2.pressablecdn.com/wp-content/uploads/2020/03/instagram-png-instagram-png-logo-1455.png" />
   <!-- https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg -->
 </a>
 <a href="#">
