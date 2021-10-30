@@ -19,7 +19,7 @@ Hi, I'm [Diego Rios!](#), a passionate self-taught Full Stack Web Developer 🚀
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 🌱 I’m currently learning integration and continuous deployment; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [d.riosrojas007@gmail.com](#);
 
