@@ -10,7 +10,6 @@
 <a href="#">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-<br />
 
 Hi, I'm [Diego Rios!](#), a passionate self-taught Full Stack Web Developer 🚀 from chile.
 
