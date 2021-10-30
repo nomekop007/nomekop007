@@ -1,14 +1,18 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 <a href="https://www.linkedin.com/in/4rfrefdfv/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nomekop007/">
-  <img align="left" alt="Abhishek's Spotify" width="35px" src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png" />
-  <!-- https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg -->
+  <img align="left" alt="Instagram" width="35px" src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png" />
 </a>
-<a href="#">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+
+<a href="https://twitter.com/DiegoRi59484382">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://open.spotify.com/artist/7CvWoscqVQJvqb0OcBRQO7">
+  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 Hi, I'm [Diego Rios!](#), a passionate self-taught Full Stack Web Developer 🚀 from chile.
