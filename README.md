@@ -34,25 +34,3 @@ Hi, I'm [Diego Rios!](#), a passionate self-taught Full Stack Web Developer 🚀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   6 hrs 58 mins   ██████████████░░░░░░░░░░░   55.84 % 
-PHP          21 mins         ▓█████░░░░░░░░░░░░░░░░░░░   02.87 % 
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-TypeScript   1 hrs           ███████████░░░░░░░░░░░░░░   46.02 % 
-
-
-```
-<!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,005 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 534 tasks so far           
-⏳  Longest streak is 10 days
