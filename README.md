@@ -11,9 +11,6 @@
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://open.spotify.com/artist/7CvWoscqVQJvqb0OcBRQO7">
-  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 Hi, I'm [Diego Rios!](#), a passionate self-taught Full Stack Web Developer 🚀 from chile.
 
