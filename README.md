@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/4rfrefdfv/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/nomekop007/">
+<a href="https://www.instagram.com/dieg0_rios/">
   <img align="left" alt="Instagram" width="35px" src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png" />
 </a>
 
